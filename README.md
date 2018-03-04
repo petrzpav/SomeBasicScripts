@@ -6,3 +6,7 @@ There are nothing special, just some helpful scripts that I'm using
 
 
 **PullAll.sh:** Script for pulling all project in my ~/git folder
+
+
+
+**Extract.sh:** Script for generating install script to installing packages same as in your PC (add same PPA's and manually installed packages into it)
