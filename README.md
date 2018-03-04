@@ -10,3 +10,7 @@ There are nothing special, just some helpful scripts that I'm using
 
 
 **Extract.sh:** Script for generating install script to installing packages same as in your PC (add same PPA's and manually installed packages into it)
+
+
+
+**ReinitializeGit.sh** Script for reinitialization git project (mainly delete old commits)
